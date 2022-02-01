@@ -13,10 +13,6 @@
 
     <artifactId>web-app</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>progect</groupId>
-            <artifactId>rest-app</artifactId>
-        </dependency>
     </dependencies>
 
 
