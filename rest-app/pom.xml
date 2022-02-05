@@ -15,10 +15,6 @@
             <groupId>progect</groupId>
             <artifactId>model</artifactId>
         </dependency>
-        <dependency>
-            <groupId>progect</groupId>
-            <artifactId>model</artifactId>
-        </dependency>
     </dependencies>
 
     <artifactId>rest-app</artifactId>
